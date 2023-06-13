@@ -1,0 +1,1223 @@
+[
+    {
+        "tokens": ["KROGER,", "VITAMIN", "D", "WHOLE", "MILK", "GRADE", "A"],
+        "labels": ["O", "O", "O", "ING", "ING", "O", "O"]
+    },
+    {
+        "tokens": ["Publix", "peanut", "butter", "low", "fat"],
+        "labels": ["O", "ING", "ING", "O", "O"]
+    },
+    {
+        "tokens": ["Kraft", "American", "Cheese", "Slices"],
+        "labels": ["O", "ING", "ING", "ING"]
+    },
+    {
+        "tokens": ["RED", "WINE,", "VINEGAR", "Red", "wine", "vinegar"],
+        "labels": ["O", "O", "O", "ING", "ING", "ING"]
+    },
+    {
+        "tokens": ["Silk", "Almond", "Milk"],
+        "labels": ["O", "ING", "ING"]
+    },
+    {
+        "tokens": ["Jif", "Creamy", "Peanut", "Butter"],
+        "labels": ["O", "O", "ING", "ING"]
+    },
+    {
+        "tokens": ["Cheddar", "Cheese", "Block"],
+        "labels": ["ING", "ING", "ING"]
+    },
+    {
+        "tokens": ["Heinz", "Ketchup"],
+        "labels": ["O", "ING"]
+    },
+    {
+        "tokens": ["Coca-Cola", "Soft", "Drink"],
+        "labels": ["O", "ING", "ING"]
+    },
+    {
+        "tokens": ["Romaine", "Lettuce"],
+        "labels": ["ING", "ING"]
+    },
+    {
+        "tokens": ["Lay's", "Classic", "Potato", "Chips"],
+        "labels": ["O", "O", "ING", "ING"]
+    },
+    {
+        "tokens": ["Hellmann's", "Mayonnaise"],
+        "labels": ["O", "ING"]
+    },
+    {
+        "tokens": ["Hershey's", "Milk", "Chocolate"],
+        "labels": ["O", "ING", "ING"]
+    },
+    {
+        "tokens": ["McCormick", "Ground", "Black", "Pepper"],
+        "labels": ["O", "ING", "ING", "ING"]
+    },
+    {
+        "tokens": ["Trader", "Joe's", "Organic", "Honey"],
+        "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Nestle", "Pure", "Life", "Bottled", "Water"],
+        "labels": ["O", "O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Pillsbury", "Crescent", "Rolls"],
+        "labels": ["O", "ING", "ING"]
+    },
+    {
+        "tokens": ["Starbucks", "Blonde", "Roast", "Coffee"],
+        "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Daisy", "Sour", "Cream"],
+        "labels": ["O", "ING", "ING"]
+    },
+    {
+        "tokens": ["Jasmine", "Rice"],
+        "labels": ["ING", "ING"]
+    },
+    {
+        "tokens": ["Red", "Delicious", "Apples"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Quaker", "Instant", "Oatmeal"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Coca-Cola", "Classic"],
+        "labels": ["O", "ING"]
+    },
+    {
+        "tokens": ["Sabra", "Classic", "Hummus"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Cheetos", "Crunchy", "Cheese", "Snacks"],
+        "labels": ["O", "O", "ING", "ING"]
+    },
+    {
+        "tokens": ["Hidden", "Valley", "Ranch", "Dressing"],
+        "labels": ["O", "O", "ING", "ING"]
+    },
+    {
+        "tokens": ["Gatorade", "Thirst", "Quencher"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["MegaBites", "Protein", "Bar"],
+        "labels": ["O", "ING", "ING"]
+    },
+    {
+        "tokens": ["Supreme", "Delight", "Ice", "Cream"],
+        "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Green", "Valley", "Organics", "Yogurt"],
+        "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Happy", "Harvest", "Tomato", "Soup"],
+        "labels": ["O", "O", "ING", "ING"]
+    },
+    {
+        "tokens": ["Blue", "Mountain", "Ground", "Coffee"],
+        "labels": ["O", "O", "ING", "ING"]
+    },
+    {
+        "tokens": ["Crunchy", "Munchy", "Granola", "Bars"],
+        "labels": ["O", "O", "ING", "ING"]
+    },
+    {
+        "tokens": ["Organic", "Fresh", "Strawberries"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Peanut", "Butter", "Puff", "Cereal"],
+        "labels": ["O", "ING", "ING", "ING"]
+    },
+    {
+        "tokens": ["Sweet", "Delights", "Sugar", "Cookies"],
+        "labels": ["O", "O", "ING", "ING"]
+    },
+    {
+        "tokens": ["Savory", "Seasons", "Potato", "Chips"],
+        "labels": ["O", "O", "ING", "ING"]
+    },
+    {
+        "tokens": ["Extra", "Fudge", "Brownie", "Mix"],
+        "labels": ["O", "O", "ING", "ING"]
+    },
+    {
+        "tokens": ["Smooth", "N'", "Silky", "Shampoo"],
+        "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Condition", "Revive", "Hair", "Mask"],
+        "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Crispy", "Crunchy", "Onion", "Rings"],
+        "labels": ["O", "O", "ING", "ING"]
+    },
+    {
+        "tokens": ["Fresh", "Harvest", "Garden", "Salad"],
+        "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Nourish", "and", "Glow", "Face", "Mask"],
+        "labels": ["O", "O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Frosty", "Delight", "Frozen", "Yogurt"],
+        "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Zesty", "Lemon", "Citrus", "Soda"],
+        "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Minty", "Fresh", "Toothpaste"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Juicy", "Bursts", "Fruit", "Snacks"],
+        "labels": ["O", "O", "ING", "ING"]
+    },
+    {
+        "tokens": ["Creamy", "Caramel", "Popcorn"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Soothing", "Lavender", "Body", "Lotion"],
+        "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Honey", "Roasted", "Cashews"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Spicy", "Kick", "Salsa"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Protein", "Power", "Energy", "Bars"],
+        "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Berry", "Blast", "Smoothie"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Sour", "Apple", "Candy"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Creamy", "Parmesan", "Pasta"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Coconut", "Crunch", "Granola"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Crispy", "Tortilla", "Chips"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Garlic", "Butter", "Bread"],
+        "labels": ["O", "ING", "ING"]
+    },
+    {
+        "tokens": ["Sizzling", "Steak", "Seasoning"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Honey", "Mustard", "Dressing"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Sweet", "Cherry", "Pie"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Cinnamon", "Swirl", "Buns"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Roasted", "Almond", "Butter"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Fiesta", "Corn", "Salsa"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Refreshing", "Mint", "Tea"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Mocha", "Frappe", "Smoothie"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Sun", "Kissed", "Tomatoes"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Sweet", "Orange", "Marmalade"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Zesty", "Lime", "Sorbet"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Garlic", "Pepper", "Seasoning"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Sizzling", "Fajita", "Marinade"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Creamy", "Hazelnut", "Spread"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Spicy", "Black", "Bean", "Burger"],
+        "labels": ["O", "O", "ING", "ING"]
+    },
+    {
+        "tokens": ["Tropical", "Fruit", "Punch"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Raspberry", "Swirl", "Cheesecake"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Sour", "Gummy", "Worms"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Chocolate", "Peanut", "Butter", "Smoothie"],
+        "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Cheesy", "Broccoli", "Soup"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Pineapple", "Coconut", "Smoothie"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Toasted", "Marshmallow", "Cocoa"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Hickory", "Smoked", "Bacon"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Chunky", "Salsa", "Dip"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Peanut", "Butter", "Cup", "Ice", "Cream"],
+        "labels": ["O", "O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Italian", "Herb", "Seasoning"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Creamy", "Mushroom", "Soup"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Sweet", "Caramel", "Drizzle"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Roasted", "Garlic", "Hummus"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Mango", "Peach", "Smoothie"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Savory", "Herb", "Gravy"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Dark", "Chocolate", "Truffles"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Classic", "Buttermilk", "Pancakes"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Tangy", "Barbecue", "Sauce"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Crunchy", "Peanut", "Clusters"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Sweet", "Cinnamon", "Rolls"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Creamy", "Caesar", "Dressing"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Blueberry", "Muffin", "Mix"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Butter", "Pecan", "Ice", "Cream"],
+        "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Honey", "Mustard", "Pretzels"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Zesty", "Chipotle", "Sauce"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Crispy", "Chicken", "Tenders"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Raspberry", "Lemonade", "Fizzy"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Hickory", "BBQ", "Ribs"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Creamy", "Vanilla", "Custard"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Chunky", "Monkey", "Ice", "Cream"],
+        "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Tangy", "Orange", "Marinade"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Cheesy", "Garlic", "Bread"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Peach", "Cobbler", "Crunch"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Savory", "Sausage", "Gravy"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Vanilla", "Bean", "Frappuccino"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Spicy", "Nacho", "Chips"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Roasted", "Red", "Pepper", "Dip"],
+        "labels": ["O", "O", "ING", "ING"]
+    },
+    {
+        "tokens": ["Lemon", "Poppy", "Seed", "Muffins"],
+        "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Creamy", "Peanut", "Nougat"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Spicy", "Mango", "Salsa"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Sweet", "Honey", "Glazed", "Ham"],
+        "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Coconut", "Cream", "Pie"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Crispy", "Fried", "Chicken"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Mint", "Chocolate", "Chip", "Ice", "Cream"],
+        "labels": ["O", "O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Zesty", "Lemon", "Chicken"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Cheesy", "Broccoli", "Casserole"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Vanilla", "Bean", "Yogurt"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Creamy", "Mushroom", "Pasta"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Strawberry", "Banana", "Smoothie"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Sizzling", "Garlic", "Steak"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Savory", "Sesame", "Chicken"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Chunky", "Garden", "Salsa"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Peanut", "Butter", "Swirl", "Brownies"],
+        "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Roasted", "Garlic", "Mashed", "Potatoes"],
+        "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Creamy", "Coconut", "Curry"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Sweet", "Raspberry", "Jam"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Zesty", "Lime", "Marinade"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Cheesy", "Spinach", "Dip"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Blueberry", "Cheesecake", "Ice", "Cream"],
+        "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Tangy", "Teriyaki", "Sauce"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Crunchy", "Peanut", "Butter"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Honey", "Barbecue", "Chicken"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Creamy", "Parmesan", "Chicken"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Sizzling", "Fajita", "Wrap"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Savory", "Herb", "Pork", "Chops"],
+        "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Vanilla", "Caramel", "Latte"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Spicy", "Buffalo", "Wings"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Roasted", "Red", "Pepper", "Soup"],
+        "labels": ["O", "O", "ING", "ING"]
+    },
+    {
+        "tokens": ["Lemon", "Poppy", "Seed", "Cake"],
+        "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Creamy", "Peanut", "Nougat"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Spicy", "Mango", "Salsa"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Sweet", "Honey", "Glazed", "Ham"],
+        "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Coconut", "Cream", "Pie"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Crispy", "Fried", "Chicken"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Mint", "Chocolate", "Chip", "Ice", "Cream"],
+        "labels": ["O", "O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Zesty", "Lemon", "Chicken"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Cheesy", "Broccoli", "Casserole"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Vanilla", "Bean", "Yogurt"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Creamy", "Mushroom", "Pasta"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Strawberry", "Banana", "Smoothie"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Sizzling", "Garlic", "Steak"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Savory", "Sesame", "Chicken"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Chunky", "Garden", "Salsa"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Peanut", "Butter", "Swirl", "Brownies"],
+        "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Roasted", "Garlic", "Mashed", "Potatoes"],
+        "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Creamy", "Coconut", "Curry"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Sweet", "Raspberry", "Jam"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Zesty", "Lime", "Marinade"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Cheesy", "Spinach", "Dip"],
+        "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Blueberry", "Cheesecake", "Ice", "Cream"],
+    "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Tangy", "Teriyaki", "Sauce"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Crunchy", "Peanut", "Butter"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Honey", "Barbecue", "Chicken"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Creamy", "Parmesan", "Chicken"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Sizzling", "Fajita", "Wrap"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Savory", "Herb", "Pork", "Chops"],
+    "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Vanilla", "Caramel", "Latte"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Spicy", "Buffalo", "Wings"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Roasted", "Red", "Pepper", "Soup"],
+    "labels": ["O", "O", "ING", "ING"]
+    },
+    {
+        "tokens": ["Lemon", "Poppy", "Seed", "Cake"],
+    "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Creamy", "Peanut", "Nougat"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Spicy", "Mango", "Salsa"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Sweet", "Honey", "Glazed", "Ham"],
+    "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Coconut", "Cream", "Pie"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Crispy", "Fried", "Chicken"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Mint", "Chocolate", "Chip", "Ice", "Cream"],
+    "labels": ["O", "O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Zesty", "Lemon", "Chicken"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Cheesy", "Broccoli", "Casserole"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Vanilla", "Bean", "Yogurt"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Creamy", "Mushroom", "Pasta"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Strawberry", "Banana", "Smoothie"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Sizzling", "Garlic", "Steak"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Savory", "Sesame", "Chicken"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Chunky", "Garden", "Salsa"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Peanut", "Butter", "Swirl", "Brownies"],
+    "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Roasted", "Garlic", "Mashed", "Potatoes"],
+    "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Creamy", "Coconut", "Curry"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Sweet", "Raspberry", "Jam"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Zesty", "Lime", "Marinade"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Cheesy", "Spinach", "Dip"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Blueberry", "Cheesecake", "Ice", "Cream"],
+    "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Tangy", "Teriyaki", "Sauce"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Crunchy", "Peanut", "Butter"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Honey", "Barbecue", "Chicken"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Creamy", "Parmesan", "Chicken"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Sizzling", "Fajita", "Wrap"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Savory", "Herb", "Pork", "Chops"],
+    "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Vanilla", "Caramel", "Latte"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Spicy", "Buffalo", "Wings"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Roasted", "Red", "Pepper", "Soup"],
+    "labels": ["O", "O", "ING", "ING"]
+    },
+    {
+        "tokens": ["Lemon", "Poppy", "Seed", "Cake"],
+    "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Creamy", "Peanut", "Nougat"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Spicy", "Mango", "Salsa"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Sweet", "Honey", "Glazed", "Ham"],
+    "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Coconut", "Cream", "Pie"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Crispy", "Fried", "Chicken"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Mint", "Chocolate", "Chip", "Ice", "Cream"],
+    "labels": ["O", "O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Zesty", "Lemon", "Chicken"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Cheesy", "Broccoli", "Casserole"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Vanilla", "Bean", "Yogurt"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Creamy", "Mushroom", "Pasta"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Strawberry", "Banana", "Smoothie"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Sizzling", "Garlic", "Steak"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Savory", "Sesame", "Chicken"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Chunky", "Garden", "Salsa"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Peanut", "Butter", "Swirl", "Brownies"],
+    "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Roasted", "Garlic", "Mashed", "Potatoes"],
+    "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Creamy", "Coconut", "Curry"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Sweet", "Raspberry", "Jam"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Zesty", "Lime", "Marinade"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Cheesy", "Spinach", "Dip"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Blueberry", "Cheesecake", "Ice", "Cream"],
+    "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Tangy", "Teriyaki", "Sauce"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Crunchy", "Peanut", "Butter"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Honey", "Barbecue", "Chicken"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Creamy", "Parmesan", "Chicken"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Sizzling", "Fajita", "Wrap"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Savory", "Herb", "Pork", "Chops"],
+    "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Vanilla", "Caramel", "Latte"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Spicy", "Buffalo", "Wings"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Roasted", "Red", "Pepper", "Soup"],
+    "labels": ["O", "O", "ING", "ING"]
+    },
+    {
+        "tokens": ["Lemon", "Poppy", "Seed", "Cake"],
+    "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Creamy", "Peanut", "Nougat"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Spicy", "Mango", "Salsa"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Sweet", "Honey", "Glazed", "Ham"],
+    "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Coconut", "Cream", "Pie"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Crispy", "Fried", "Chicken"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Mint", "Chocolate", "Chip", "Ice", "Cream"],
+    "labels": ["O", "O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Zesty", "Lemon", "Chicken"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Cheesy", "Broccoli", "Casserole"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Vanilla", "Bean", "Yogurt"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Creamy", "Mushroom", "Pasta"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Strawberry", "Banana", "Smoothie"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Sizzling", "Garlic", "Steak"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Savory", "Sesame", "Chicken"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Chunky", "Garden", "Salsa"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Peanut", "Butter", "Swirl", "Brownies"],
+    "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Roasted", "Garlic", "Mashed", "Potatoes"],
+    "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Creamy", "Coconut", "Curry"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Sweet", "Raspberry", "Jam"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Zesty", "Lime", "Marinade"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Cheesy", "Spinach", "Dip"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Blueberry", "Cheesecake", "Ice", "Cream"],
+    "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Tangy", "Teriyaki", "Sauce"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Crunchy", "Peanut", "Butter"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Honey", "Barbecue", "Chicken"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Creamy", "Parmesan", "Chicken"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Sizzling", "Fajita", "Wrap"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Savory", "Herb", "Pork", "Chops"],
+    "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Vanilla", "Caramel", "Latte"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Spicy", "Buffalo", "Wings"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Roasted", "Red", "Pepper", "Soup"],
+    "labels": ["O", "O", "ING", "ING"]
+    },
+    {
+        "tokens": ["Lemon", "Poppy", "Seed", "Cake"],
+    "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Creamy", "Peanut", "Nougat"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Spicy", "Mango", "Salsa"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Sweet", "Honey", "Glazed", "Ham"],
+    "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Coconut", "Cream", "Pie"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Crispy", "Fried", "Chicken"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Mint", "Chocolate", "Chip", "Ice", "Cream"],
+    "labels": ["O", "O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Zesty", "Lemon", "Chicken"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Cheesy", "Broccoli", "Casserole"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Vanilla", "Bean", "Yogurt"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Creamy", "Mushroom", "Pasta"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Strawberry", "Banana", "Smoothie"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Sizzling", "Garlic", "Steak"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Savory", "Sesame", "Chicken"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Chunky", "Garden", "Salsa"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Peanut", "Butter", "Swirl", "Brownies"],
+    "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Roasted", "Garlic", "Mashed", "Potatoes"],
+    "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Creamy", "Coconut", "Curry"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Sweet", "Raspberry", "Jam"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Zesty", "Lime", "Marinade"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Cheesy", "Spinach", "Dip"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Blueberry", "Cheesecake", "Ice", "Cream"],
+    "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Tangy", "Teriyaki", "Sauce"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Crunchy", "Peanut", "Butter"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Honey", "Barbecue", "Chicken"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Creamy", "Parmesan", "Chicken"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Sizzling", "Fajita", "Wrap"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Savory", "Herb", "Pork", "Chops"],
+    "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Vanilla", "Caramel", "Latte"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Spicy", "Buffalo", "Wings"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Roasted", "Red", "Pepper", "Soup"],
+    "labels": ["O", "O", "ING", "ING"]
+    },
+    {
+        "tokens": ["Lemon", "Poppy", "Seed", "Cake"],
+    "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Creamy", "Peanut", "Nougat"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Spicy", "Mango", "Salsa"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Sweet", "Honey", "Glazed", "Ham"],
+    "labels": ["O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Coconut", "Cream", "Pie"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Crispy", "Fried", "Chicken"],
+    "labels": ["O", "O", "ING"]
+    },
+    {
+        "tokens": ["Mint", "Chocolate", "Chip", "Ice", "Cream"],
+    "labels": ["O", "O", "O", "O", "ING"]
+    },
+    {
+        "tokens": ["Zesty", "Lemon", "Chicken"],
+    "labels": ["O", "O", "ING"]
+    }
+    
+]
